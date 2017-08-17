@@ -1,4 +1,4 @@
-# Classe PHP ApiTPE
+# Classe PHP Api1TPE
 
 ## Introduction
 Classe PHP de connexion à l'API 1tpe.com
